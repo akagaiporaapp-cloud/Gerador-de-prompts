@@ -1,0 +1,7 @@
+{
+  "name": "PromptGenius AI",
+  "description": "Uma ferramenta avançada movida a IA que analisa imagens para gerar prompts detalhados em vários estilos (Realista, Anime, 3D, etc.) e gera novas imagens diretamente a partir deles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
